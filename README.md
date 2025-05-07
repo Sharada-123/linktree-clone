@@ -11,5 +11,7 @@
     <img src="http://demos.lrh04.dev/linktree-clone/demo.gif" alt="Linktree Clone Demo GIF">
 </div>
 
-> [!NOTE]
-> If you want to use this, just clone the repository like normal and remove, or change, the `base` config in `vite.config.ts`, the /linktree-clone/ is a specific `base` to my web page.
+# Installation
+- Clone the repository
+- Run `npm install`
+- Remove `base` config in `vite.config.ts`
