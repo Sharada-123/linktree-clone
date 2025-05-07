@@ -3,7 +3,7 @@
 <div align="center">
     <a href="https://demos.lrh04.dev/linktree-clone/" target="_blank">Live Demo</a>
 </div>
-
+<br>
 <div align="center">
     <table>
         <tr>
@@ -19,7 +19,7 @@
                 </p>
             </td>
             <td>
-                <img src="http://demos.lrh04.dev/linktree-clone/demo.gif" alt="Linktree Clone Demo GIF">
+                <img src="http://demos.lrh04.dev/linktree-clone/demo.gif" width="400" alt="Linktree Clone Demo GIF">
             </td>
         </tr>
     </table>
