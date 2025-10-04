@@ -49,7 +49,7 @@ function App() {
                             </Foldout>
 
                             <Header title='Cool Links' />
-                            <Link title='Antoher Link' url='https://slushyrh.dev' />
+                            <Link title='Another Link' url='https://slushyrh.dev' />
                             <Link title='Link With Image' bgImg={firePic} url='https://slushyrh.dev' />
                             <Link title='Link With Gif' bgImg={animeGif} url='https://slushyrh.dev' />
                         </div>
